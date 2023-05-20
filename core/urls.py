@@ -1,8 +1,6 @@
 
 from django.urls import path
-from core.views import(
-    HomeView,
-)
+from core.views import HomeView
 
 app_name ='core'
 
